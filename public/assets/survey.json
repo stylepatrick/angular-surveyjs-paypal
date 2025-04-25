@@ -1,0 +1,20 @@
+{
+  "completedHtml": "<h3>Thank you for completing the survey, please continue with the payment process!</h3>",
+  "pages": [
+    {
+      "name": "Name",
+      "elements": [
+        {
+          "type": "text",
+          "name": "FirstName",
+          "title": "Enter your first name:"
+        },
+        {
+          "type": "text",
+          "name": "LastName",
+          "title": "Enter your last name:"
+        }
+      ]
+    }
+  ]
+}
